@@ -3,7 +3,7 @@
 Always remember: "<span id="k">Hack The Planet Or Die Trying</span>". <!-- sjkfhskjf -->
 
 Welcome to the Void...<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>This file serves as a landing page and quick introduction to our services...</p>
-<p>My name, as far as business is concerned is Void.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p>My name, as far as business is concerned is <span id="k">Void_</span></p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <p>I will provide more information after we establish contact on a more secure basis, but think of the Void as your one-stop hack shop..</p><!-- delaydelaydelaydelaydelaydelaydelay -->
 <p>We offer a plethora of services for distinguished clients who require specialized skillsets, access to information, "products", or recon.<br><br><br>To request a service, or services..</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 <p>Coming Soon....</p>
