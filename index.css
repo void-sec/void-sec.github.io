@@ -40,7 +40,7 @@ a {
 }
 
 .header img {
-  float: left;
+  float: center;
   width: 50px;
   height: 50px;
   background: #555;
