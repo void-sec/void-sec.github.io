@@ -38,3 +38,10 @@ a {
     	50% { color:  #0f0; }
     	99% { color: black; }
 }
+
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
